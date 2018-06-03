@@ -258,3 +258,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/SportsStore.WebUI/App_Data/SportsStore.mdf
+/SportsStore.WebUI/App_Data/SportsStore_log.ldf
